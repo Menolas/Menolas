@@ -2,9 +2,15 @@
 #### Web Developer - Creating and supporting
 I really enjoy learning languages  like JS, PHP as well as work in WordPress.
 
+### Hi there 👋, Elena Christensen
+#### Web Developer - Creating and supporting
+![Web Developer - Creating and supporting](<a href="https://uk.freelancehunt.com/r/AXNjd" target="_blank"><img src="https://freelancehunt.com/static/images/bonus/en/300/4.png" width="300" height="250"></a>)
+
+I'm Elena, and I am a Web Developer. I really enjoy learning languages  like JS, PHP as well as work in WordPress.
+
 Skills:  JS / HTML / CSS/ PHP / WordPress
 
-- 🔭 I’m currently working on this page. 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Menolas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/elena-k-99bb2665//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/olenakunina)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/elena.christensen77/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12134181)  
@@ -13,6 +19,9 @@ Skills:  JS / HTML / CSS/ PHP / WordPress
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Menolas&show_icons=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Menolas)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Menolas)  
 
 
 
