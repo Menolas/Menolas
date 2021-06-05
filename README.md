@@ -3,7 +3,7 @@
 I really enjoy learning languages  like JS, PHP as well as work in WordPress.
 
 
-(<a href="https://uk.freelancehunt.com/r/AXNjd" target="_blank"><img src="https://freelancehunt.com/static/images/bonus/en/300/4.png" width="300" height="250"></a>)
+<a href="https://uk.freelancehunt.com/r/AXNjd" target="_blank"><img src="https://freelancehunt.com/static/images/bonus/en/300/4.png" width="300" height="250"></a>
 
 
 
