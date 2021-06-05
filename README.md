@@ -2,11 +2,10 @@
 #### Web Developer - Creating and supporting
 I really enjoy learning languages  like JS, PHP as well as work in WordPress.
 
-### Hi there 👋, Elena Christensen
-#### Web Developer - Creating and supporting
-![Web Developer - Creating and supporting](<a href="https://uk.freelancehunt.com/r/AXNjd" target="_blank"><img src="https://freelancehunt.com/static/images/bonus/en/300/4.png" width="300" height="250"></a>)
 
-I'm Elena, and I am a Web Developer. I really enjoy learning languages  like JS, PHP as well as work in WordPress.
+(<a href="https://uk.freelancehunt.com/r/AXNjd" target="_blank"><img src="https://freelancehunt.com/static/images/bonus/en/300/4.png" width="300" height="250"></a>)
+
+
 
 Skills:  JS / HTML / CSS/ PHP / WordPress
 
@@ -19,9 +18,7 @@ Skills:  JS / HTML / CSS/ PHP / WordPress
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Menolas&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Menolas)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Menolas)  
 
 
 
