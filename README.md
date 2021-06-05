@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Elena Christensen
 #### Web Developer - Creating and supporting
-I'm Elena, and I am a Web Developer. I really enjoy learning languages  like JS, PHP as well as work in WordPress.
+I really enjoy learning languages  like JS, PHP as well as work in WordPress.
 
 Skills:  JS / HTML / CSS/ PHP / WordPress
 
