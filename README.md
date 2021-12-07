@@ -7,8 +7,8 @@
 ### Skills & Tecknologies:  
 JS / HTML / CSS/ PHP / WordPress
 
-- 🔭 I’m currently working on my own company 
-- 🌱 I’m currently learning ES6 
+- 🔭 I’m currently working as a Frontend Developer 
+- 🌱 I’m currently learning https://htmlacademy.ru/intensive/ecmascript
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Menolas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/elena-k-99bb2665//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/elena.christensen77/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12134181)  
