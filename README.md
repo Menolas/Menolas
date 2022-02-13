@@ -2,7 +2,7 @@
 
 ## Web Developer - Creating and supporting
 
-### I really enjoy learning languages  like JS, PHP as well as work in WordPress.
+### Currently I am learning React/Redux.
 
 ### Skills & Tecknologies:  
 JS / HTML / CSS/ PHP / WordPress
