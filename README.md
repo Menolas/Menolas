@@ -2,13 +2,11 @@
 
 ## Web Developer - Creating and supporting
 
-### Currently I am learning React/Redux.
-
 ### Skills & Tecknologies:  
-JS / HTML / CSS/ PHP / WordPress
+JS / HTML / CSS/ PHP / SQL / WordPress / Git / SASS / Gulp 
 
-- 🔭 I’m currently working as a Frontend Developer 
-- 🌱 I’m currently learning https://htmlacademy.ru/intensive/ecmascript
+- 🔭 Working as a Frontend Developer at SuiteDash
+- 🌱 Currently learning "React JS - Way of Samuray 1.0" https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Menolas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/elena-k-99bb2665//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/elena.christensen77/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12134181)  
