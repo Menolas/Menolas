@@ -1,5 +1,22 @@
 # Hi there 👋, I am Elena Christensen
 
+<a href="https://www.linkedin.com/in/elena-c-99bb2665/">
+  <img align="left" alt="Menolas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="mailto:olenachristensen777@gmail.com">
+  <img align="left" alt="Menolas's Mail" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/gmail.svg" />
+</a>
+
+<a href="https://www.instagram.com/elena.christensen77/">
+  <img align="left" alt="Menolas | Instagram" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/instagram.svg" />
+</a>
+
+
+<a href="https://santosharron.epicprogrammer.com/">
+  <img align="left" alt="Santosh Arron's Portfolio" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/globe-grid.svg" />
+</a>
+
 ## Web Developer - Creating and supporting
 
 ### Skills & Tecknologies:  
