@@ -12,9 +12,8 @@
   <img align="left" alt="Menolas | Instagram" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/instagram.svg" />
 </a>
 
-
-<a href="https://santosharron.epicprogrammer.com/">
-  <img align="left" alt="Santosh Arron's Portfolio" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/globe-grid.svg" />
+<a href="https://freelancehunt.com/freelancer/Menolas.html">
+  <img align="left" alt="Menolas's freelanshant profile" width="22px" src="https://freelancehunt.com/static/images/logo/freelancehunt-sm.svg?v6" />
 </a>
 
 ## Web Developer - Creating and supporting
