@@ -13,6 +13,8 @@ JS / HTML / CSS/ PHP / SQL / WordPress / Git / SASS / Gulp
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <a href="https://uk.freelancehunt.com/r/AXNjd" target="_blank"><img src="https://freelancehunt.com/static/images/bonus/en/300/4.png" width="300" height="250"></a>
 
 
