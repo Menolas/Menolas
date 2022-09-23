@@ -41,10 +41,6 @@ code><img height="20" src="https://raw.githubusercontent.com/github/explore/8068
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Menolas&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menolas)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://uk.freelancehunt.com/r/AXNjd" target="_blank"><img src="https://freelancehunt.com/static/images/bonus/en/300/4.png" width="300" height="250"></a>
-
-
-
 
 
 <!--
