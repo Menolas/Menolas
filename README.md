@@ -3,6 +3,7 @@
 ## Web Developer - Creating and supporting
 
 ### Skills & Tecknologies:  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menolas)](https://github.com/anuraghazra/github-readme-stats)
 JS / HTML / CSS/ PHP / SQL / WordPress / Git / SASS / Gulp 
 
 - 🔭 Working as a Frontend Developer at SuiteDash
