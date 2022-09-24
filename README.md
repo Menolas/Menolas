@@ -16,6 +16,10 @@
   <img align="left" alt="Menolas's freelanshant profile" width="22px" src="https://freelancehunt.com/static/images/logo/freelancehunt-sm.svg?v6" />
 </a>
 
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Menolas alt=Menolas /> </p>
+
+<br>
+
 ## Web Developer - Creating and supporting
 
 #### Top Technologies
