@@ -33,7 +33,7 @@ code><img height="20" src="https://raw.githubusercontent.com/github/explore/8068
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-- 🔭 Working as a Frontend Developer at SuiteDash
+- 🔭 Working as a Frontend Developer at <img height="30" alt="SuiteDash" src="https://d2ce5n0xoq9lh5.cloudfront.net/wp-content/uploads/2021/04/SD_2021-website-redesign-logo.svg">
 - 🌱 Currently learning "React JS - Way of Samuray 2.0" https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Menolas&show_icons=true&theme=radical)
