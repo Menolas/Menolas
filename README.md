@@ -47,7 +47,7 @@
 - 🌱 Currently learning "React JS - Way of Samuray 2.0" https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Menolas&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menolas)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Menolas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
