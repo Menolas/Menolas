@@ -46,8 +46,8 @@
 
 - 🌱 Currently learning "React JS - Way of Samuray 2.0" https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8
 
-<img src="https://github-readme-stats.vercel.app/api?username=Menolas&show_icons=true&theme=dracula" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menolas&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=Menolas&show_icons=true&theme=dracula" align="left" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menolas&layout=compact" align="left" width="47%" />
 
 <!--
 **Menolas/Menolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
