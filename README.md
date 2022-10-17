@@ -1,5 +1,9 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">
 
+## I am Web Developer - Creating and supporting
+
+<br>
+
 <a href="https://www.linkedin.com/in/elena-c-99bb2665/">
   <img align="left" alt="Menolas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -21,8 +25,6 @@
 <br>
 
 ## Working at <a align="left" href="https://suitedash.com/"><img height="35" alt="SuiteDash" src="https://d2ce5n0xoq9lh5.cloudfront.net/wp-content/uploads/2021/04/SD_2021-website-redesign-logo.svg" /></a>
-
-## Web Developer - Creating and supporting
 
 **Languages and Tools:**
 
