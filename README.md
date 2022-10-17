@@ -46,7 +46,7 @@
 
 - 🌱 Currently learning "React JS - Way of Samuray 2.0" https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8
 
-<img src="https://github-readme-stats.vercel.app/api?username=Menolas&show_icons=true&theme=dracula" align="left" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Menolas&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" align="left" width="47%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menolas&layout=compact&theme=react&hide_border=true&bg_color=0D1117" align="left" width="47%" />
 
 <!--
