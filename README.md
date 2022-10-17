@@ -20,7 +20,7 @@
 
 <br>
 
-<p alignn="left">Working at <img alignn="left" height="35" alt="SuiteDash" src="https://d2ce5n0xoq9lh5.cloudfront.net/wp-content/uploads/2021/04/SD_2021-website-redesign-logo.svg"></p>
+<a align="left" href="https://suitedash.com/">Working at <img align="left" height="35" alt="SuiteDash" src="https://d2ce5n0xoq9lh5.cloudfront.net/wp-content/uploads/2021/04/SD_2021-website-redesign-logo.svg"></a>
 
 ## Web Developer - Creating and supporting
 
