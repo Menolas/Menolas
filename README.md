@@ -32,7 +32,7 @@
 
 **Languages and Tools:**
 
-<p align="left"> 
+<p align="left" style="display:flex;align-items:center;"> 
     <!--<a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/></a> 
     <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
@@ -49,7 +49,7 @@
     <a href="https://redux.js.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a>
     <a href="https://www.php.net" target="_blank"><img width="50" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png"/></a>
-  <a href="https://www.php.net" target="_blank"><img width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/540px-WordPress_logo.svg.png?20110527172402"/></a>
+    <a href="https://wordpress.org" target="_blank"><img width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/540px-WordPress_logo.svg.png?20110527172402"/></a>
   
 </p>
 
