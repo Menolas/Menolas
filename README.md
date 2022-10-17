@@ -48,7 +48,7 @@
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
     <a href="https://redux.js.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a>
-    <a href="https://www.php.net" target="_blank"><img src="https://img.icons8.com/color/48/000000/php-software.png"/></a>
+    <a href="https://www.php.net" target="_blank"><img width="50" src="https://banner2.cleanpng.com/20180519/zqq/kisspng-php-server-side-scripting-yii-web-application-scri-5b00d886698cb9.3580042815267820864324.jpg"/></a>
 </p>
 
 - 🌱 Currently learning "React JS - Way of Samuray 2.0" https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8
