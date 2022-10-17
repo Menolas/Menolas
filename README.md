@@ -24,12 +24,6 @@
 
 ## Web Developer - Creating and supporting
 
-#### Top Technologies
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-<!--[![Typescript Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#)-->
-
 **Languages and Tools:**
 
 <p align="left" style="display:flex;align-items:center;"> 
