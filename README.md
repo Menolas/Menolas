@@ -49,7 +49,7 @@
   
 </p>
 
-- 🌱 Currently learning "React JS - Way of Samuray 2.0" https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8
+- 🌱 Currently learning "React JS - Way of Samuray 2.0" <a align="left" href="https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8"><img src="https://i.ytimg.com/vi/jSV2IPQz3ak/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBB7H_DpWjZOPCblr3IzeFr7-YowA" /></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Menolas&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" align="left" width="47%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menolas&layout=compact&theme=react&hide_border=true&bg_color=0D1117" align="left" width="47%" />
