@@ -52,7 +52,8 @@
 <a href="https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8"><img src="https://i.ytimg.com/vi/jSV2IPQz3ak/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBB7H_DpWjZOPCblr3IzeFr7-YowA" /></a>
 <br>
 <br>
-<a href="https://github.com/Menolas/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Menolas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Menolastheme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Menolas)](https://github.com/Menolas/github-readme-streak-stats)
+<!--<a href="https://github.com/Menolas/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Menolas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Menolastheme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>-->
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Menolas&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" align="left" width="47%" />
