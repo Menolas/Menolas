@@ -46,26 +46,23 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a>
     <a href="https://www.php.net" target="_blank"><img height="50" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png"/></a>
     <a href="https://wordpress.org" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/540px-WordPress_logo.svg.png?20110527172402"/></a>
-  
 </p>
-
 - 🌱 Currently learning "React JS - Way of Samuray 2.0"
 <br>
 <a href="https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8"><img src="https://i.ytimg.com/vi/jSV2IPQz3ak/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBB7H_DpWjZOPCblr3IzeFr7-YowA" /></a>
 <br>
 <br>
-
+<a href="https://github.com/Menolas/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Menolas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Menolastheme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=Menolas&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" align="left" width="47%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menolas&layout=compact&theme=react&hide_border=true&bg_color=0D1117" align="left" width="47%" />
-
 <br/>
 <br/>
 
 <a href="https://github.com/Menolas/github-readme-activity-graph"><img alt="Menolas Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Menolas&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
-
 <!--
 **Menolas/Menolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
