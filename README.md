@@ -50,9 +50,7 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menolas&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="47%" />
 </p>
-- 🌱 Currently learning "React JS - Way of Samuray 2.0"
-<br>
-<a href="https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8"><img src="https://i.ytimg.com/vi/jSV2IPQz3ak/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBB7H_DpWjZOPCblr3IzeFr7-YowA" /></a>
+- 🌱 Currently learning TypeScript
 <br>
 <br>
 <!--<a href="https://github.com/Menolas/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Menolas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Menolastheme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>-->
