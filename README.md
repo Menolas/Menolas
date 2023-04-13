@@ -12,7 +12,7 @@
   <img align="left" alt="Menolas's Mail" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/gmail.svg" />
 </a>
 
-<a href="https://www.instagram.com/elena.christensen77/">
+<a href="https://www.instagram.com/_elena_christensen/">
   <img align="left" alt="Menolas | Instagram" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/instagram.svg" />
 </a>
 
