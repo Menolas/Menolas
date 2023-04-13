@@ -58,9 +58,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Menolas&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="47%" />
 <br/>
 <br/>
-<a href="https://github.com/Menolas/github-readme-activity-graph"><img alt="Menolas Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Menolas&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-<br/>
 <!--
 **Menolas/Menolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
