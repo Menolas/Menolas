@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://www.linkedin.com/in/elena-c-99bb2665/">
-  <img align="left" alt="Menolas's LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw3ogffJEZjd0BEHwxf-VCSg&ust=1693288561826000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDa18jV_oADFQAAAAAdAAAAABAE)" />
+  <img align="left" alt="Menolas's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 
 <a href="mailto:olenachristensen777@gmail.com">
