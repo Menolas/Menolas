@@ -50,7 +50,7 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menolas&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="47%" />
 </p>
-- 🌱 Currently learning TypeScript
+- 🌱 Currently learning TypeScript, Next.js
 <br>
 <br>
 <!--<a href="https://github.com/Menolas/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Menolas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Menolastheme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>-->
