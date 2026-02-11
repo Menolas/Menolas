@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/elena-c-99bb2665/">
+<a href="https://www.linkedin.com/in/olena-christensen/">
   <img align="left" alt="Menolas's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 
@@ -14,10 +14,6 @@
 
 <a href="https://www.instagram.com/_elena_christensen/">
   <img align="left" alt="Menolas | Instagram" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/instagram.svg" />
-</a>
-
-<a href="https://freelancehunt.com/freelancer/Menolas.html">
-  <img align="left" alt="Menolas's freelanshant profile" width="22px" src="https://freelancehunt.com/static/images/logo/freelancehunt-sm.svg?v6" />
 </a>
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Menolas alt=Menolas /> </p>
