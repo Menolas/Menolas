@@ -40,7 +40,7 @@
     <a href="https://redux.js.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a>
     <a href="https://www.php.net" target="_blank"><img height="50" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png"/></a>
-    <a href="https://wordpress.org" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/540px-WordPress_logo.svg.png?20110527172402"/></a>
+    <a href="https://wordpress.org" target="_blank"><img height="50" src="https://img.icons8.com/?size=100&id=aMLZmDlq6SvC&format=png&color=000000"/></a>
 <br>
 </p>
 <br>
