@@ -23,8 +23,6 @@
 **Languages and Tools:**
 
 <p align="left" style="display:flex;align-items:center;"> 
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/></a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
     <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     <a href="https://www.w3schools.com/css/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png?20150315202757"/></a>
