@@ -43,7 +43,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://www.typescriptlang.org" target="_blank"> <img height="50" src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000"/></a>
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-    <a href="https://nextjs.org/"><img src=""/></a>
+    <a href="https://nextjs.org/" target="_blank"><img src="./next.svg"/></a>
     <a href="https://redux.js.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a>
     <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/></a>
