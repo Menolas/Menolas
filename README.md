@@ -23,23 +23,19 @@
 **Languages and Tools:**
 
 <p align="left" style="display:flex;align-items:center;"> 
-    <!--<a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/></a> 
-    <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/></a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    -->
     <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
     <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     <a href="https://www.w3schools.com/css/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png?20150315202757"/></a>
     <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="#" target="_blank"> <img height="50" src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000"/></a>
+    <a href="https://www.typescriptlang.org" target="_blank"> <img height="50" src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000"/></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
     <a href="https://redux.js.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/></a>
     <a href="https://www.php.net" target="_blank"><img height="50" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png"/></a>
     <a href="https://wordpress.org" target="_blank"><img height="50" src="https://img.icons8.com/?size=100&id=aMLZmDlq6SvC&format=png&color=000000"/></a>
 <br>
