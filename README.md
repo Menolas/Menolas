@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">
 
-## Code Whisperer: Crafting Stunning and Responsive Web Dreams 🚀
+## Frontend developer focused on React/Next.js/TypeScript 🚀
 
 <br>
 
