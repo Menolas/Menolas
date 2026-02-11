@@ -20,8 +20,6 @@
 
 <br>
 
-## Working at <a align="left" href="https://suitedash.com/"><img height="35" alt="SuiteDash" src="https://d2ce5n0xoq9lh5.cloudfront.net/wp-content/uploads/2021/04/SD_2021-website-redesign-logo.svg" /></a>
-
 **Languages and Tools:**
 
 <p align="left" style="display:flex;align-items:center;"> 
