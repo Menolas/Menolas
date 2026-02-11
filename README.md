@@ -4,21 +4,11 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/olena-christensen/">
-  <img align="left" alt="Menolas's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
-</a>
-
-<a href="mailto:olenachristensen777@gmail.com">
-  <img align="left" alt="Menolas's Mail" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/gmail.svg" />
-</a>
-
-<a href="https://www.instagram.com/_elena_christensen/">
-  <img align="left" alt="Menolas | Instagram" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/instagram.svg" />
-</a>
-
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Menolas alt=Menolas /> </p>
 
 <br>
+<!-- my-badges start -->
+<!-- my-badges end -->
 
 **Languages and Tools:**
 
