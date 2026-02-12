@@ -3,14 +3,14 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/Menolas/sedona/commit/a1d958fab0181780bbfdcaf97af8a39922280b08\"><strong>a</strong>1d958fab0181780bbfdcaf97af8a39922280b08</a>",
+    "body": "- <a href=\"https://github.com/Menolas/yeticave/commit/a734adfd05c8cd385e34b69c9b98db082c5010e5\"><strong>a</strong>734adfd05c8cd385e34b69c9b98db082c5010e5</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/Menolas/junior-theme/commit/ab49039026ae35acab86df8c60e304aedaddc8be\"><strong>ab</strong>49039026ae35acab86df8c60e304aedaddc8be</a>",
+    "body": "- <a href=\"https://github.com/Menolas/Tattooista/commit/ab65a755165cbfe015a147f3ee8282505dd71f4a\"><strong>ab</strong>65a755165cbfe015a147f3ee8282505dd71f4a</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
@@ -21,17 +21,10 @@
     "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
-    "id": "dead-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"dead\" once.",
-    "body": "- <a href=\"https://github.com/Menolas/react-kabzda-1/commit/b5ab19957ddead0a05503355ed28a1d03ee14de6\">b5ab19957d<strong>dead</strong>0a05503355ed28a1d03ee14de6</a>",
-    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
-  },
-  {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 408 times)\n2. request (used 396 times)\n3. pull (used 390 times)\n4. update (used 138 times)\n5. readme.md (used 131 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 298 times)\n2. request (used 297 times)\n3. pull (used 291 times)\n4. update (used 137 times)\n5. readme.md (used 125 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -59,7 +52,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/next-blog-app/commit/ffcdd657e3565c51fa919a3c74d3fb86d3554517\">ffcdd65</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/cinemaddict/commit/be7b5fcbf798100eefac7edffbdfa3f528998c1f\">be7b5fc</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -80,7 +73,7 @@
     "id": "pi-day",
     "tier": 0,
     "desc": "Happy March 14th! I committed on a Pi Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/Tattooista/commit/3a9e1f433b1b0cd54fb405b27c39d3734c68fd48\">3a9e1f4</a>\n- <a href=\"https://github.com/Menolas/junior-theme/commit/ae3971092d63836ff8860b2e4c474c2c0400a88e\">ae39710</a>\n- <a href=\"https://github.com/Menolas/junior-theme/commit/32767a146085103e8262d8a1c7b2a2f0c5dec18c\">32767a1</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/Tattooista/commit/3a9e1f433b1b0cd54fb405b27c39d3734c68fd48\">3a9e1f4</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
   },
   {
@@ -98,17 +91,10 @@
     "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
   },
   {
-    "id": "st-patricks-day",
-    "tier": 0,
-    "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/junior-theme/commit/0c43f57ab3afd40d7d7bc68ad277d4b9f7d249d6\">0c43f57</a>",
-    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
-  },
-  {
     "id": "the-ultimate-question",
     "tier": 0,
     "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
-    "body": "- <a href=\"https://github.com/Menolas/react-kabzda-1/issues/42\">#42</a>\n- <a href=\"https://github.com/Menolas/Tattooista/issues/42\">#42</a>",
+    "body": "- <a href=\"https://github.com/Menolas/Tattooista/issues/42\">#42</a>",
     "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   },
   {
@@ -129,14 +115,14 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/Tattooista/commit/a838ad3b1e803f244fba6fc04b6bba0d1796493e\">a838ad3</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/12d9f0d207fe73aaa70a0dbff67c9de4e1bd8e8b\">12d9f0d</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/4dbf07f2c9d3ce8dfdfb3a5ccfab62ea427189b9\">4dbf07f</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/bd59f1e2ad77dcb8c9bafba7ae37969bcd30d73c\">bd59f1e</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/9a769c75e335bcf0528f6324ea367771db491e52\">9a769c7</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/f79e160eb0ae34bebe3f0ae2c48ac8e4b0332427\">f79e160</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/2cbe30d4ad0fcbadd743517c684c9aa0dc2d1221\">2cbe30d</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/39aee745dd607bc850da33b1193346ee1ce98623\">39aee74</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/7a92726bfa2d8d9f579202cbecb558c06d8c8cf3\">7a92726</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/bced27c4e4beac4e4832e46ca73d26333e6e48ea\">bced27c</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/d184e4ab51dcdfd8988259617e0710cb929c979b\">d184e4a</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/7024060233cf9d0e88d40ded2bfe815f3561691c\">7024060</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/47ea2e114c6d7b23fbb795161bd072d2a3f41306\">47ea2e1</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/defb6dd8843f73d80585b6e43fff74657a423cd7\">defb6dd</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/891d7b69f5130479333cab51e12cd8661317f460\">891d7b6</a>\n- <a href=\"https://github.com/Menolas/durdyev/commit/c928ca67bbe4b06a5e9bc0e31bf0c04d7c871ad9\">c928ca6</a>\n- <a href=\"https://github.com/Menolas/junior-theme/commit/e026229efb340387d81073d36e26721df95536ec\">e026229</a>\n- <a href=\"https://github.com/Menolas/junior-theme/commit/b5bb6009493e9ea220df3065263450f285bd22e8\">b5bb600</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/47ea2e114c6d7b23fbb795161bd072d2a3f41306\">47ea2e1</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/defb6dd8843f73d80585b6e43fff74657a423cd7\">defb6dd</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/891d7b69f5130479333cab51e12cd8661317f460\">891d7b6</a>\n- <a href=\"https://github.com/Menolas/durdyev/commit/c928ca67bbe4b06a5e9bc0e31bf0c04d7c871ad9\">c928ca6</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   }
 ]

@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Menolas/next-blog-app/commit/ffcdd657e3565c51fa919a3c74d3fb86d3554517">ffcdd65</a>
+- <a href="https://github.com/Menolas/cinemaddict/commit/be7b5fcbf798100eefac7edffbdfa3f528998c1f">be7b5fc</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

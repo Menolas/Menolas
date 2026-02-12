@@ -8,8 +8,6 @@ Commits:
 - <a href="https://github.com/Menolas/Tattooista/commit/defb6dd8843f73d80585b6e43fff74657a423cd7">defb6dd</a>
 - <a href="https://github.com/Menolas/Tattooista/commit/891d7b69f5130479333cab51e12cd8661317f460">891d7b6</a>
 - <a href="https://github.com/Menolas/durdyev/commit/c928ca67bbe4b06a5e9bc0e31bf0c04d7c871ad9">c928ca6</a>
-- <a href="https://github.com/Menolas/junior-theme/commit/e026229efb340387d81073d36e26721df95536ec">e026229</a>
-- <a href="https://github.com/Menolas/junior-theme/commit/b5bb6009493e9ea220df3065263450f285bd22e8">b5bb600</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

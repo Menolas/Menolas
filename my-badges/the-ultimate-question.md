@@ -2,7 +2,6 @@
 <strong>I found the answer to the ultimate question of life, the universe, and everything!</strong>
 <br><br>
 
-- <a href="https://github.com/Menolas/react-kabzda-1/issues/42">#42</a>
 - <a href="https://github.com/Menolas/Tattooista/issues/42">#42</a>
 
 
