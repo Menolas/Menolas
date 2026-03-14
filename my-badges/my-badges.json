@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 299 times)\n2. request (used 298 times)\n3. pull (used 292 times)\n4. update (used 137 times)\n5. readme.md (used 125 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 301 times)\n2. request (used 300 times)\n3. pull (used 294 times)\n4. update (used 141 times)\n5. refactoring (used 87 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -124,5 +124,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/47ea2e114c6d7b23fbb795161bd072d2a3f41306\">47ea2e1</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/defb6dd8843f73d80585b6e43fff74657a423cd7\">defb6dd</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/891d7b69f5130479333cab51e12cd8661317f460\">891d7b6</a>\n- <a href=\"https://github.com/Menolas/durdyev/commit/c928ca67bbe4b06a5e9bc0e31bf0c04d7c871ad9\">c928ca6</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/89e46b81dbe35b50e7871bf5432a66c04ebe3346\">89e46b8</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/a966412bd9b25dd4a998f11c2e813462051cc002\">a966412</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/638b7e71778c26f6f6d2e43004c17b2a5e5b07dc\">638b7e7</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/0692c69865e3339d5f337e6ed61e31c9e7123782\">0692c69</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
   }
 ]
