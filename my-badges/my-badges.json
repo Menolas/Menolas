@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 302 times)\n2. request (used 301 times)\n3. pull (used 295 times)\n4. update (used 142 times)\n5. readme.md (used 125 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 304 times)\n2. request (used 303 times)\n3. pull (used 297 times)\n4. update (used 142 times)\n5. add (used 58 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -138,5 +138,12 @@
     "desc": "I pushed a commit with \"cafe\" once.",
     "body": "- <a href=\"https://github.com/Menolas/tarot-next-app/commit/5cc4296d10fa75d16f64866a91ed914f87cafe95\">5cc4296d10fa75d16f64866a91ed914f87<strong>cafe</strong>95</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/b517044f13efbcbf21d7e9a0e033748c08e8c850\">b517044</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/a547ac3002fff2f9c6cf876b64b95c64ba30065e\">a547ac3</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/162a4f5bc786e2b9a3eed9e8600b14d4a046e055\">162a4f5</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/01d282ecb951cabac6460e3cbba7015d50ce27a7\">01d282e</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
