@@ -23,8 +23,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 311 times)\n2. request (used 310 times)\n3. pull (used 304 times)\n4. update (used 142 times)\n5. readme.md (used 125 times)",
+    "desc": "My favorite word is \"request\".",
+    "body": "My favorite commit message words are:\n\n1. request (used 321 times)\n2. merge (used 320 times)\n3. pull (used 313 times)\n4. update (used 147 times)\n5. refactoring (used 87 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/cinemaddict/commit/6e7f510def6d22050652d8379194cb4c0b1904cc\">6e7f510</a>: fixed comments\n- <a href=\"https://github.com/Menolas/cinemaddict/commit/0b631041e544f42cb137e1ea23e885056a25df7b\">0b63104</a>: fixed troubles with dissapearing movie card after popup closed\n- <a href=\"https://github.com/Menolas/cinemaddict/commit/438da533493fa9edd595ecf0f53f54467f37ecc2\">438da53</a>: fixed error adding movie to favourites in popup, added mode watcher",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/Tattooista/commit/335b69ebbe235bc34dcf4c463de4ab3ad2dccc9f\">335b69e</a>: fix: restore original MERN app seed data (FAQ, services, about page)\n\nUsed actual content from Client/src/data/ instead of made-up text.\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/4fa0299accafa8eb79dd85de94985ee6e9a106e9\">4fa0299</a>: fix: restore full seed data (all FAQ items, styles, services, page content)\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/9c1b4a627019c20f70cc86e9306533d65e8effa1\">9c1b4a6</a>: fix: handle missing tenant context on landing page\n\nShow a simple landing placeholder when no studio context is present\n(e.g. visiting localhost:3000 without ?studio= param).\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
@@ -145,5 +145,19 @@
     "desc": "I committed on St. Patrick's Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/b517044f13efbcbf21d7e9a0e033748c08e8c850\">b517044</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/a547ac3002fff2f9c6cf876b64b95c64ba30065e\">a547ac3</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/162a4f5bc786e2b9a3eed9e8600b14d4a046e055\">162a4f5</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/01d282ecb951cabac6460e3cbba7015d50ce27a7\">01d282e</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/Tattooista/commit/8f7ccc196003b1281db72b5e70fc09e9d69f8a99\">8f7ccc1</a>: chore: exclude scripts from TypeScript build, layer 0 verification\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/Tattooista/commit/06bf5f16f5384fd01e500517a667b22ffbc79eaa\">06bf5f1</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   }
 ]
