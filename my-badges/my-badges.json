@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"request\".",
-    "body": "My favorite commit message words are:\n\n1. request (used 325 times)\n2. merge (used 324 times)\n3. pull (used 317 times)\n4. update (used 147 times)\n5. co-authored-by: (used 92 times)",
+    "body": "My favorite commit message words are:\n\n1. request (used 326 times)\n2. merge (used 325 times)\n3. pull (used 318 times)\n4. update (used 147 times)\n5. co-authored-by: (used 92 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -157,7 +157,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/Tattooista/commit/06bf5f16f5384fd01e500517a667b22ffbc79eaa\">06bf5f1</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/Tattooista/commit/bcada8a12fe0c5a04bf889229dfaf168cb5d9038\">bcada8a</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/06bf5f16f5384fd01e500517a667b22ffbc79eaa\">06bf5f1</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   }
 ]
