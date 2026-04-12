@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/Menolas/tarot-next-app/commit/48286f4a7318bc315181041f00649f14dd055569">48286f4</a>
+- <a href="https://github.com/Menolas/tarot-next-app/commit/c2e1249c333bb0d22be990e204390d738af362fd">c2e1249</a>
+- <a href="https://github.com/Menolas/tarot-next-app/commit/24474d6c5a8be00694072481b133b4503294f153">24474d6</a>
+- <a href="https://github.com/Menolas/tarot-next-app/commit/39c0737567db3bf77b691908e7eca09a461b6151">39c0737</a>
+- <a href="https://github.com/Menolas/tarot-next-app/commit/dc94c6f581935c7fea93d8e7a6d7aa748412fd83">dc94c6f</a>
 - <a href="https://github.com/Menolas/tarot-next-app/commit/811faff9aa2b3a3e4cbc3f9b5226bb3bdeb5755f">811faff</a>
-- <a href="https://github.com/Menolas/tarot-next-app/commit/263627cb53d6443ee81ce7c3cccaefe67c30b779">263627c</a>
-- <a href="https://github.com/Menolas/tarot-next-app/commit/7152c1a363a73c33f8ed51d4ad9aa717b1986e8b">7152c1a</a>
-- <a href="https://github.com/Menolas/tarot-next-app/commit/7e5ec45d0164687d2d4c3cebbe94351198d9baa7">7e5ec45</a>
-- <a href="https://github.com/Menolas/Tattooista/commit/d82fc621dd0c2ceaf5b00328bada11f870f4664e">d82fc62</a>
-- <a href="https://github.com/Menolas/Tattooista/commit/750194ffa1f159eafb5a3fd55f312614139c21b6">750194f</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
