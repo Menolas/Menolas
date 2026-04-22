@@ -4,10 +4,6 @@
 <br>
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Menolas alt=Menolas /> </p>
 <br>
-<br>
-<br>
-
-**Languages and Tools:**
 
 <p align="left" style="display:flex;align-items:center;">
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
@@ -26,7 +22,6 @@
     <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/></a>
     <a href="https://www.php.net" target="_blank"><img height="50" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png"/></a>
     <a href="https://wordpress.org" target="_blank"><img height="50" src="https://img.icons8.com/?size=100&id=aMLZmDlq6SvC&format=png&color=000000"/></a>
-<br>
 </p>
 <br>
 <br>
