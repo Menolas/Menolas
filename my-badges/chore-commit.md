@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Menolas/Tattooista/commit/8f7ccc196003b1281db72b5e70fc09e9d69f8a99">8f7ccc1</a>: chore: exclude scripts from TypeScript build, layer 0 verification
+- <a href="https://github.com/olena-christensen/Tattooista/commit/8f7ccc196003b1281db72b5e70fc09e9d69f8a99">8f7ccc1</a>: chore: exclude scripts from TypeScript build, layer 0 verification
 
 Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>
 

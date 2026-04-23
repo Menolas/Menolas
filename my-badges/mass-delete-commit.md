@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Menolas/cinemaddict/commit/be7b5fcbf798100eefac7edffbdfa3f528998c1f">be7b5fc</a>
+- <a href="https://github.com/olena-christensen/cinemaddict/commit/be7b5fcbf798100eefac7edffbdfa3f528998c1f">be7b5fc</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

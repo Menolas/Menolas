@@ -3,14 +3,14 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/Menolas/yeticave/commit/a734adfd05c8cd385e34b69c9b98db082c5010e5\"><strong>a</strong>734adfd05c8cd385e34b69c9b98db082c5010e5</a>",
+    "body": "- <a href=\"https://github.com/olena-christensen/yeticave/commit/a734adfd05c8cd385e34b69c9b98db082c5010e5\"><strong>a</strong>734adfd05c8cd385e34b69c9b98db082c5010e5</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/Menolas/Tattooista/commit/ab65a755165cbfe015a147f3ee8282505dd71f4a\"><strong>ab</strong>65a755165cbfe015a147f3ee8282505dd71f4a</a>",
+    "body": "- <a href=\"https://github.com/olena-christensen/Tattooista/commit/ab65a755165cbfe015a147f3ee8282505dd71f4a\"><strong>ab</strong>65a755165cbfe015a147f3ee8282505dd71f4a</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
@@ -24,21 +24,21 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"request\".",
-    "body": "My favorite commit message words are:\n\n1. request (used 345 times)\n2. merge (used 344 times)\n3. pull (used 337 times)\n4. update (used 149 times)\n5. readme.md (used 125 times)",
+    "body": "My favorite commit message words are:\n\n1. request (used 347 times)\n2. merge (used 346 times)\n3. pull (used 339 times)\n4. update (used 156 times)\n5. readme.md (used 132 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/ee451d67bd2eb3b5184d3c6ffd4cb024732d8cad\">ee451d6</a>: fixed path to img\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/94faa0b47984c28ebd654af94bb8dea390f4825f\">94faa0b</a>: fixed pathes to imges",
+    "body": "Commits:\n\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/ee451d67bd2eb3b5184d3c6ffd4cb024732d8cad\">ee451d6</a>: fixed path to img\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/94faa0b47984c28ebd654af94bb8dea390f4825f\">94faa0b</a>: fixed pathes to imges",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/Tattooista/commit/335b69ebbe235bc34dcf4c463de4ab3ad2dccc9f\">335b69e</a>: fix: restore original MERN app seed data (FAQ, services, about page)\n\nUsed actual content from Client/src/data/ instead of made-up text.\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/4fa0299accafa8eb79dd85de94985ee6e9a106e9\">4fa0299</a>: fix: restore full seed data (all FAQ items, styles, services, page content)\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/9c1b4a627019c20f70cc86e9306533d65e8effa1\">9c1b4a6</a>: fix: handle missing tenant context on landing page\n\nShow a simple landing placeholder when no studio context is present\n(e.g. visiting localhost:3000 without ?studio= param).\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/335b69ebbe235bc34dcf4c463de4ab3ad2dccc9f\">335b69e</a>: fix: restore original MERN app seed data (FAQ, services, about page)\n\nUsed actual content from Client/src/data/ instead of made-up text.\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/4fa0299accafa8eb79dd85de94985ee6e9a106e9\">4fa0299</a>: fix: restore full seed data (all FAQ items, styles, services, page content)\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/9c1b4a627019c20f70cc86e9306533d65e8effa1\">9c1b4a6</a>: fix: handle missing tenant context on landing page\n\nShow a simple landing placeholder when no studio context is present\n(e.g. visiting localhost:3000 without ?studio= param).\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
@@ -52,105 +52,105 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/cinemaddict/commit/be7b5fcbf798100eefac7edffbdfa3f528998c1f\">be7b5fc</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/olena-christensen/cinemaddict/commit/be7b5fcbf798100eefac7edffbdfa3f528998c1f\">be7b5fc</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/InvestMag/commit/faab495b0edede248d3bdca2c056d0ee5b0082e9\">faab495</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/olena-christensen/InvestMag/commit/faab495b0edede248d3bdca2c056d0ee5b0082e9\">faab495</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
     "id": "may-the-4th",
     "tier": 0,
     "desc": "May the 4th be with you!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/Tattooista/commit/0bda9e5faa85aaa2a48eb06c5b957b677a9a5007\">0bda9e5</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/97c2598acaf060d97726e466a46bb873642744e9\">97c2598</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/b28450ac51bfe12793d1e336a7166592eb2a2ecd\">b28450a</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/5959aa92a7493f96ce47eb8655c903673996634f\">5959aa9</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/0bda9e5faa85aaa2a48eb06c5b957b677a9a5007\">0bda9e5</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/97c2598acaf060d97726e466a46bb873642744e9\">97c2598</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/b28450ac51bfe12793d1e336a7166592eb2a2ecd\">b28450a</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/5959aa92a7493f96ce47eb8655c903673996634f\">5959aa9</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
   },
   {
     "id": "pi-day",
     "tier": 0,
     "desc": "Happy March 14th! I committed on a Pi Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/Tattooista/commit/3a9e1f433b1b0cd54fb405b27c39d3734c68fd48\">3a9e1f4</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/3a9e1f433b1b0cd54fb405b27c39d3734c68fd48\">3a9e1f4</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
   },
   {
     "id": "programmers-day",
     "tier": 0,
     "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/Tattooista/commit/822d402170de7a06ccc5edce26ed1a0e4410ad4d\">822d402</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/fe970bb91487f87843618482d849c15219f0195e\">fe970bb</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/90669d2f6c5494b786689a22763071de5d87883e\">90669d2</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/c6b27ee4a4d3e8e3f5f4109b21148e49c9375516\">c6b27ee</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/822d402170de7a06ccc5edce26ed1a0e4410ad4d\">822d402</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/fe970bb91487f87843618482d849c15219f0195e\">fe970bb</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/90669d2f6c5494b786689a22763071de5d87883e\">90669d2</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/c6b27ee4a4d3e8e3f5f4109b21148e49c9375516\">c6b27ee</a>",
     "image": "https://my-badges.github.io/my-badges/programmers-day.png"
   },
   {
     "id": "the-ultimate-question",
     "tier": 0,
     "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
-    "body": "- <a href=\"https://github.com/Menolas/Tattooista/issues/42\">#42</a>",
+    "body": "- <a href=\"https://github.com/olena-christensen/Tattooista/issues/42\">#42</a>",
     "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/Tattooista/commit/30c35e28e9aa601a0160e17195ebdaa42373e887\">30c35e2</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/dbe88ca296bd7ebe8405d936a3415ef585233bf5\">dbe88ca</a>\n- <a href=\"https://github.com/Menolas/cinemaddict/commit/07f7bc2fe367591212daf3b01c45ff5ada8a1975\">07f7bc2</a>\n- <a href=\"https://github.com/Menolas/cinemaddict/commit/32d5e412280010f4a5afb75cde6dca6d12b51b0e\">32d5e41</a>\n- <a href=\"https://github.com/Menolas/cinemaddict/commit/5a3fc39a390f0d4d4a920a5de55196abffc15d76\">5a3fc39</a>\n- <a href=\"https://github.com/Menolas/cinemaddict/commit/4083b44e23c4785850a91ef4f051c27e6727ee6a\">4083b44</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/30c35e28e9aa601a0160e17195ebdaa42373e887\">30c35e2</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/dbe88ca296bd7ebe8405d936a3415ef585233bf5\">dbe88ca</a>\n- <a href=\"https://github.com/olena-christensen/cinemaddict/commit/07f7bc2fe367591212daf3b01c45ff5ada8a1975\">07f7bc2</a>\n- <a href=\"https://github.com/olena-christensen/cinemaddict/commit/32d5e412280010f4a5afb75cde6dca6d12b51b0e\">32d5e41</a>\n- <a href=\"https://github.com/olena-christensen/cinemaddict/commit/5a3fc39a390f0d4d4a920a5de55196abffc15d76\">5a3fc39</a>\n- <a href=\"https://github.com/olena-christensen/cinemaddict/commit/4083b44e23c4785850a91ef4f051c27e6727ee6a\">4083b44</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/Tattooista/commit/7577c286a74abfa20e7311b8cb4eacfd406a237c\">7577c28</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/d6baa10ca3e0da6bbeaae5c2e0a6ef61d52c6a43\">d6baa10</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/d94d672dc643ccc3846e9fce9884a06fa7af6595\">d94d672</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/93df5dff69e905265217171be3b88a25f26d39c4\">93df5df</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/4d1d352f9e5bff603d7373842e37db8b3322019d\">4d1d352</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/09a1dd20f1c8e2286f79d659129c18b0e7fee5d8\">09a1dd2</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/7577c286a74abfa20e7311b8cb4eacfd406a237c\">7577c28</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/d6baa10ca3e0da6bbeaae5c2e0a6ef61d52c6a43\">d6baa10</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/d94d672dc643ccc3846e9fce9884a06fa7af6595\">d94d672</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/93df5dff69e905265217171be3b88a25f26d39c4\">93df5df</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/4d1d352f9e5bff603d7373842e37db8b3322019d\">4d1d352</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/09a1dd20f1c8e2286f79d659129c18b0e7fee5d8\">09a1dd2</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/df0abfc7223e32c2106908f3a3db162d06e2c184\">df0abfc</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/eda6a4a0563666aa8d6388bcac5dd74f701a9e25\">eda6a4a</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/094a297aab74d4fcad42cbe82ba99e1fc885dcfe\">094a297</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/272eec6a8528c795403ac9d9a758560e8b2e54b0\">272eec6</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/7babf767d0272360126c81243d515820421b9f06\">7babf76</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/5739e0e6680563a1169c590b2af298f02390ce84\">5739e0e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/fcd5bba46304048277b9adb9aec15acb645d658f\">fcd5bba</a>\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/4d2e5b4c749640cddfd6e5cbf41d65543e90a75a\">4d2e5b4</a>\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/df0abfc7223e32c2106908f3a3db162d06e2c184\">df0abfc</a>\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/eda6a4a0563666aa8d6388bcac5dd74f701a9e25\">eda6a4a</a>\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/094a297aab74d4fcad42cbe82ba99e1fc885dcfe\">094a297</a>\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/272eec6a8528c795403ac9d9a758560e8b2e54b0\">272eec6</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/47ea2e114c6d7b23fbb795161bd072d2a3f41306\">47ea2e1</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/defb6dd8843f73d80585b6e43fff74657a423cd7\">defb6dd</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/891d7b69f5130479333cab51e12cd8661317f460\">891d7b6</a>\n- <a href=\"https://github.com/Menolas/durdyev/commit/c928ca67bbe4b06a5e9bc0e31bf0c04d7c871ad9\">c928ca6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/47ea2e114c6d7b23fbb795161bd072d2a3f41306\">47ea2e1</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/defb6dd8843f73d80585b6e43fff74657a423cd7\">defb6dd</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/891d7b69f5130479333cab51e12cd8661317f460\">891d7b6</a>\n- <a href=\"https://github.com/olena-christensen/durdyev/commit/c928ca67bbe4b06a5e9bc0e31bf0c04d7c871ad9\">c928ca6</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
     "id": "friday-13",
     "tier": 0,
     "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/89e46b81dbe35b50e7871bf5432a66c04ebe3346\">89e46b8</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/a966412bd9b25dd4a998f11c2e813462051cc002\">a966412</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/638b7e71778c26f6f6d2e43004c17b2a5e5b07dc\">638b7e7</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/0692c69865e3339d5f337e6ed61e31c9e7123782\">0692c69</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/89e46b81dbe35b50e7871bf5432a66c04ebe3346\">89e46b8</a>\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/a966412bd9b25dd4a998f11c2e813462051cc002\">a966412</a>\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/638b7e71778c26f6f6d2e43004c17b2a5e5b07dc\">638b7e7</a>\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/0692c69865e3339d5f337e6ed61e31c9e7123782\">0692c69</a>",
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
   },
   {
     "id": "cafe-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"cafe\" once.",
-    "body": "- <a href=\"https://github.com/Menolas/tarot-next-app/commit/5cc4296d10fa75d16f64866a91ed914f87cafe95\">5cc4296d10fa75d16f64866a91ed914f87<strong>cafe</strong>95</a>",
+    "body": "- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/5cc4296d10fa75d16f64866a91ed914f87cafe95\">5cc4296d10fa75d16f64866a91ed914f87<strong>cafe</strong>95</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   },
   {
     "id": "st-patricks-day",
     "tier": 0,
     "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/b517044f13efbcbf21d7e9a0e033748c08e8c850\">b517044</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/a547ac3002fff2f9c6cf876b64b95c64ba30065e\">a547ac3</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/162a4f5bc786e2b9a3eed9e8600b14d4a046e055\">162a4f5</a>\n- <a href=\"https://github.com/Menolas/tarot-next-app/commit/01d282ecb951cabac6460e3cbba7015d50ce27a7\">01d282e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/b517044f13efbcbf21d7e9a0e033748c08e8c850\">b517044</a>\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/a547ac3002fff2f9c6cf876b64b95c64ba30065e\">a547ac3</a>\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/162a4f5bc786e2b9a3eed9e8600b14d4a046e055\">162a4f5</a>\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/01d282ecb951cabac6460e3cbba7015d50ce27a7\">01d282e</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   },
   {
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/Tattooista/commit/8f7ccc196003b1281db72b5e70fc09e9d69f8a99\">8f7ccc1</a>: chore: exclude scripts from TypeScript build, layer 0 verification\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/8f7ccc196003b1281db72b5e70fc09e9d69f8a99\">8f7ccc1</a>: chore: exclude scripts from TypeScript build, layer 0 verification\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Menolas/Tattooista/commit/bcada8a12fe0c5a04bf889229dfaf168cb5d9038\">bcada8a</a>\n- <a href=\"https://github.com/Menolas/Tattooista/commit/06bf5f16f5384fd01e500517a667b22ffbc79eaa\">06bf5f1</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/bcada8a12fe0c5a04bf889229dfaf168cb5d9038\">bcada8a</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/06bf5f16f5384fd01e500517a667b22ffbc79eaa\">06bf5f1</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {

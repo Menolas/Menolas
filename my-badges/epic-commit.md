@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Menolas/Tattooista/commit/bcada8a12fe0c5a04bf889229dfaf168cb5d9038">bcada8a</a>
-- <a href="https://github.com/Menolas/Tattooista/commit/06bf5f16f5384fd01e500517a667b22ffbc79eaa">06bf5f1</a>
+- <a href="https://github.com/olena-christensen/Tattooista/commit/bcada8a12fe0c5a04bf889229dfaf168cb5d9038">bcada8a</a>
+- <a href="https://github.com/olena-christensen/Tattooista/commit/06bf5f16f5384fd01e500517a667b22ffbc79eaa">06bf5f1</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

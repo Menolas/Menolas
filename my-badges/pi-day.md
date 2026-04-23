@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Menolas/Tattooista/commit/3a9e1f433b1b0cd54fb405b27c39d3734c68fd48">3a9e1f4</a>
+- <a href="https://github.com/olena-christensen/Tattooista/commit/3a9e1f433b1b0cd54fb405b27c39d3734c68fd48">3a9e1f4</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

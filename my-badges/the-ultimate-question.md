@@ -2,7 +2,7 @@
 <strong>I found the answer to the ultimate question of life, the universe, and everything!</strong>
 <br><br>
 
-- <a href="https://github.com/Menolas/Tattooista/issues/42">#42</a>
+- <a href="https://github.com/olena-christensen/Tattooista/issues/42">#42</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

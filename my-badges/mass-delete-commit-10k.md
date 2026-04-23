@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Menolas/InvestMag/commit/faab495b0edede248d3bdca2c056d0ee5b0082e9">faab495</a>
+- <a href="https://github.com/olena-christensen/InvestMag/commit/faab495b0edede248d3bdca2c056d0ee5b0082e9">faab495</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
