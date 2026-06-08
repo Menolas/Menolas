@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/olena-christensen/Tattooista/commit/3ff2218221d0099ce487f80fd97b96bb84adff57">3ff2218</a>
+- <a href="https://github.com/olena-christensen/Tattooista/commit/cf680a5fba3f670a4f20caabc00ae9944685f592">cf680a5</a>
+- <a href="https://github.com/olena-christensen/Tattooista/commit/954884f168468ef01cfba3d7fb1c2434c51e8cd6">954884f</a>
+- <a href="https://github.com/olena-christensen/Tattooista/commit/8062bd0464d507983387e07f66242472a3e97595">8062bd0</a>
 - <a href="https://github.com/olena-christensen/tarot-next-app/commit/8b6fa1f146b24dbcb0cde6197acb31262160ac41">8b6fa1f</a>
 - <a href="https://github.com/olena-christensen/tarot-next-app/commit/add773bbe16321cdbf5e05ca83c7c7be747b66a1">add773b</a>
-- <a href="https://github.com/olena-christensen/tarot-next-app/commit/fcd5bba46304048277b9adb9aec15acb645d658f">fcd5bba</a>
-- <a href="https://github.com/olena-christensen/tarot-next-app/commit/4d2e5b4c749640cddfd6e5cbf41d65543e90a75a">4d2e5b4</a>
-- <a href="https://github.com/olena-christensen/tarot-next-app/commit/df0abfc7223e32c2106908f3a3db162d06e2c184">df0abfc</a>
-- <a href="https://github.com/olena-christensen/tarot-next-app/commit/eda6a4a0563666aa8d6388bcac5dd74f701a9e25">eda6a4a</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
