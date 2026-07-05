@@ -23,8 +23,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"request\".",
-    "body": "My favorite commit message words are:\n\n1. request (used 381 times)\n2. merge (used 380 times)\n3. pull (used 373 times)\n4. update (used 157 times)\n5. readme.md (used 132 times)",
+    "desc": "My favorite word is \"merge\".",
+    "body": "My favorite commit message words are:\n\n1. merge (used 388 times)\n2. request (used 388 times)\n3. pull (used 380 times)\n4. update (used 157 times)\n5. readme.md (used 132 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -150,7 +150,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/4905b8d3888077bf50ec02ed9e494f27fcb26744\">4905b8d</a>\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/f46125dca6b7990dba8a3dcc91793654196f11c6\">f46125d</a>\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/09153ca49c22cea7aa0abc59cb8e596cb31b9c51\">09153ca</a>\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/08f3b1938e5b6ec060ac5969b423ea543a6f2c97\">08f3b19</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/4954fa95cfe15b9732efb1a9c9c6081fdb6cafe0\">4954fa9</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/264d0681a9d4576186cafc6a7600f24c8c70458c\">264d068</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/83fdb04c286f0004a49ec04b7d05aef5efb7b2cf\">83fdb04</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/bcada8a12fe0c5a04bf889229dfaf168cb5d9038\">bcada8a</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/06bf5f16f5384fd01e500517a667b22ffbc79eaa\">06bf5f1</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/1f5aa0145e364fc63b338858cc6b308799b96838\">1f5aa01</a>\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/2a66afd63eb949e22e49571c0c28f2bc31152261\">2a66afd</a>\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/76eddacc8f698a20d2af70d81db8d43588a5975f\">76eddac</a>\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/4905b8d3888077bf50ec02ed9e494f27fcb26744\">4905b8d</a>\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/f46125dca6b7990dba8a3dcc91793654196f11c6\">f46125d</a>\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/09153ca49c22cea7aa0abc59cb8e596cb31b9c51\">09153ca</a>\n- <a href=\"https://github.com/olena-christensen/tarot-next-app/commit/08f3b1938e5b6ec060ac5969b423ea543a6f2c97\">08f3b19</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/4954fa95cfe15b9732efb1a9c9c6081fdb6cafe0\">4954fa9</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/264d0681a9d4576186cafc6a7600f24c8c70458c\">264d068</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/83fdb04c286f0004a49ec04b7d05aef5efb7b2cf\">83fdb04</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/bcada8a12fe0c5a04bf889229dfaf168cb5d9038\">bcada8a</a>\n- <a href=\"https://github.com/olena-christensen/Tattooista/commit/06bf5f16f5384fd01e500517a667b22ffbc79eaa\">06bf5f1</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
